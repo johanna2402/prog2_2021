@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+/Users/johannalange/Downloads/Programmieren/.metadata/.plugins/org.eclipse.jdt.core
+1277319819.index
+779503910.index
