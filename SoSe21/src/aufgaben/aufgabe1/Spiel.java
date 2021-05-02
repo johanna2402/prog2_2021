@@ -3,7 +3,6 @@ package aufgaben.aufgabe1;
 import javax.swing.JOptionPane;
 
 public class Spiel {
-	
 	public static int siegPunkte;
 	private static Spieler [] spieler;
 	
@@ -66,3 +65,6 @@ public class Spiel {
 	}
 	
 }
+
+
+
